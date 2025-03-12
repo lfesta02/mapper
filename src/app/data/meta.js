@@ -98,8 +98,8 @@ const meta = {
     alagna: {
         title: "London to Alagna",
         description: <><p className="route-desc">A <i>big</i> step up… and one I was eager to make. In fact, I bought my plane ticket almost a year in advance. From that point on, 
-                        there was nothing I was more excited about. <br/><br/> I planned, planned, and planned some more. When the time finally came to leave, I felt ready. But the 
-                        truth is that for something of this scale, you can never be fully prepared. <br/><br/> I was in for an adventure!</p></>,
+                        there was nothing I was more excited about. <br/><br/> I planned, planned, and planned some more. When the time finally came to leave, I felt ready. But honestly,
+                        for something of this scale, you can never be fully prepared.</p></>,
         date: "May - June 2023",
         distance: "2500 km",
         color: '#6366f1',
